@@ -2,21 +2,20 @@
 
 # 🐞 Bug Bounty Journey – My Ethical Hacking Learning Log
 
-Welcome to my **Bug Bounty Journey** — a public journal documenting my path to becoming a skilled ethical hacker and bug bounty hunter.
+Welcome to my **Bug Bounty Journal** 
 
-This repository is more than just notes. It's a **proof of passion, discipline, and growth**. It reflects my hands-on exploration of real-world vulnerabilities, tool mastery, and hacking methodologies — all while following legal and ethical standards.
+ This journal reflects my hands-on exploration of real-world vulnerabilities, tool mastery, and hacking methodologies (all while following legal and ethical standards).
 
 ---
 
 ## 🚀 Why I Created This Journal
 
-Bug bounty hunting isn’t just about finding bugs — it's about **thinking like a hacker**, **learning continuously**, and **documenting wisely**.
+Bug bounty hunting isn’t just about finding bugs — it's about **thinking like a hacker**, **learning continuously**.
 
 This repo:
-- Tracks my **daily/weekly progress**
+- has my **daily/weekly progress**
 - Serves as my **portfolio for future opportunities**
 - Helps others who are just starting out
-- Keeps me accountable and consistent
 
 ---
 
@@ -25,27 +24,16 @@ This repo:
 | Section | Description |
 |--------|-------------|
 | `DayXX-*.md` | Daily logs of what I learned, tools used, bugs practiced, and notes |
-| `images/` | Screenshots of tools, proofs, and running labs |
-| `labs/` (coming soon) | Lab setup guides and custom scripts |
-| `resources.md` | Curated list of tutorials, blogs, videos, and bug bounty platforms |
+| `images/` | Screenshots of tools, proofs, and running labs|
 
 ---
 
 ## 🛠️ Tools & Techniques Covered So Far
 
 - **Reconnaissance:** subfinder, httpx, gau, ffuf, waybackurls
-- **Labs:** OWASP Juice Shop (live), DVWA (soon), PortSwigger Web Academy
-- **Web Attacks:** XSS, SQLi, IDOR, CSRF, File Uploads (progressively learning)
+- **Labs:** OWASP Juice Shop, PortSwigger Web Academy, TryHackMe.
+- **Web Attacks:** XSS, SQLi, IDOR, CSRF, File Uploads.
 - **Proxy Tools:** Burp Suite Community Edition
-- **Bug Platforms:** HackerOne, Bugcrowd, bugv.in, Intigriti (used for legal recon)
-
----
-
-## 📈 My Learning Philosophy
-
-> **"Learn deeply. Practice ethically. Document openly."**
-
-I believe in **learning by doing** — that’s why every concept I study is paired with hands-on application in real labs or scoped bug bounty programs.
 
 ---
 
@@ -55,13 +43,7 @@ I believe in **learning by doing** — that’s why every concept I study is pai
 ✅ Beginner to intermediate-level bug bounty practices  
 ✅ Real screenshots and tool usage  
 ✅ Notes on what worked, what failed, and what I learned from both  
-✅ A transparent roadmap of how I’m progressing in cybersecurity
-
----
-
-## 🎯 My Long-Term Goal
-
-To grow from a curious student into a confident ethical hacker, land cybersecurity roles, contribute to the community, and responsibly disclose vulnerabilities that make the web safer for everyone.
+✅ A transparent roadmap of how I was progressing in cybersecurity
 
 ---
 
@@ -75,9 +57,6 @@ Let’s build, break, learn, and grow **together**.
 ## 🔗 Connect with Me
 
 - 🧠 LinkedIn: [www.linkedin.com/in/likithgajula]
-- 🌐 Blog: [https://medium.com/@likithgajula]
+- 🌐 Blog: [https://medium.com/@0xz1nn]
 
----
-
-> 💡 *Ethical hacking is not about fame or fast money. It's about curiosity, creativity, and making technology safer.*
 
